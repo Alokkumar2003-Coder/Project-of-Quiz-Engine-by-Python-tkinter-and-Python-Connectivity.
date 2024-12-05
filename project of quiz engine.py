@@ -231,6 +231,5 @@ def uiStudentHome():
     
     nextQuestion()
     frame.mainloop()
-
-# Call the login UI to start the application
+    
 uiLogin()
